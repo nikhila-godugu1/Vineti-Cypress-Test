@@ -1,0 +1,14 @@
+{
+  "name": "vineti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "Nikhila Godugu",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.4.0"
+  }
+}
