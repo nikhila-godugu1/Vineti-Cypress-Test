@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
+    "cypress:report": "cypress run --record --key 4f323184-bca1-4550-b950-0ebb58f301e8"
   },
   "author": "Nikhila Godugu",
   "license": "ISC",
