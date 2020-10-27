@@ -1,4 +1,3 @@
-var landingPage = require("../pages/landingPage");
 describe("Validate PHP travels website",()=>{
     it("Navigate to the travels page",()=>{
         cy.visit("https://www.phptravels.net/")
