@@ -27,4 +27,5 @@ A browser will get kicked off and perform following validations.
 # Bugs
 `Airport Transport`, `Guest House` and `High to Low` checkboxes are getting uncheck after clicking search.
 
-# Screenshot
+# Run
+https://dashboard.cypress.io/projects/qfjtpu/runs/4/specs
