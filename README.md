@@ -16,6 +16,7 @@ In order to run the script.
 1. Use command `npm run cypress:open`
 2. Wait for the Cypress Test Runner to launch.
 3. Click on the test.spec.js under Integration Tests/Click on Run All specs.
+4. To run test using reporter `npm run cypress:report`
 
 # Validations
 A browser will get kicked off and perform following validations.
@@ -27,5 +28,5 @@ A browser will get kicked off and perform following validations.
 # Bugs
 `Airport Transport`, `Guest House` and `High to Low` checkboxes are getting uncheck after clicking search.
 
-# Run
+# Sample Run
 https://dashboard.cypress.io/projects/qfjtpu/runs/4/specs
